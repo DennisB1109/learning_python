@@ -1,0 +1,1 @@
+print("Hello World!") # in python there is no need for a semicolon at the end of a line
